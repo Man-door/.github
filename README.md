@@ -1,5 +1,3 @@
-# .github
-
 ![download](https://github.com/Man-door/.github/blob/main/Asset/Mandoor.png)
 # Mandoor
 
