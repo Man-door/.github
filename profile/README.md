@@ -29,6 +29,10 @@ For more detail, please check [this repository](https://github.com/Man-door/Clou
 For more detail, please check [this repository](https://github.com/Man-door/Machine-Learning).
 
 ## Installation
+The fixed application below, you can download it in google drive
+
+https://drive.google.com/file/d/1jXvhuf2N1Y3HJmM7hKuC1j8DPkabudrO/view?usp=sharing
+
 The prototype design of this application is based on Figma. If you want to see the prototype design of this application, you can access it using the link provided below.
 
 https://www.figma.com/design/tt9t8lsgYEjxN3IwQPl2ad/Mandoor?node-id=0-1&t=xWTwnPp550g2rdbK-1
