@@ -42,6 +42,6 @@ Bangkit 2024 batch 2 Capstone Team : C242-PS528
 - [Ahmad Mushthofa Kamal](https://www.linkedin.com/in/a-mushthofa/) - Cloud Computing - C548B4NY0216
 - [Muhammad Alkautsar Fathur Rohim](https://www.linkedin.com/in/alkautsar-fathur-19bab6331/) - Cloud Computing - C548B4NY2718
 - [Muhammad Zhafran Hana Alfarossi](https://www.linkedin.com/in/rossihana/) - Mobile Development - A548B4NY3132
-- [R. Muhammad Luqman Harjito](https://www.linkedin.com/in/muhammadlukman19/) - Machine Learning - M487B4KY3550
+- [R. Muhammad Luqman Harjito](https://www.linkedin.com/in/lckmnms/) - Machine Learning - M487B4KY3550
 - [Arif Fathurrahman](https://www.linkedin.com/in/arif-fathurrahman/) - Machine Learning - M297B4KY0638
 - [Ratnasari](https://www.linkedin.com/in/ratnasari-9a7914283/) - Machine Learning - M487B4KX3701
